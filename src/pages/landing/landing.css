@@ -1,0 +1,48 @@
+/* --- MOBILE STYLES --- */
+
+.landing .name {
+  font-size: 35px;
+}
+.landing .description {
+  font-size: 23px;
+}
+
+.landingImage {
+  right: 0px;
+}
+
+/* .landing .socialIcons {
+  display: none;
+} */
+
+.landing .socialIcons {
+  display: flex;
+  position: absolute;
+  left: 50px;
+  bottom: 20px;
+}
+
+/* --- MEDIA QUERIES --- */
+
+@media (min-width: 750px) {
+  .landing .name {
+    font-size: 45px;
+  }
+
+  .landing .description {
+    font-size: 22px;
+  }
+
+  .landingImage {
+    bottom: 0;
+ /*   padding-left: 2px; 
+    padding-right: 4px;*/
+    right : 4px;
+
+    
+  }
+
+  .landing .socialIcons {
+    flex-direction: column;
+  }
+}

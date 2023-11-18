@@ -1,0 +1,25 @@
+[
+  {
+    "title": "P1",
+    "image": "./projectImages/P1.png",
+    "description": "Welcome to P1, your virtual pit stop for the latest updates and standings in the world of F1. But that's not all—we've also got the ultimate card game where driver knowledge is the key to victory.",
+    "technologies": "React | Framer | CSS | Bootstrap | Node",
+    "github": "",
+    "deployed": "https://p1-heroes.netlify.app/",
+    "bgcolor": "#ffcc33",
+    "id": "1"
+  },
+    {
+      "title": "Quiz",
+      "image": "./projectImages/quiz.png",
+      "technologies": "JS | HTML | CSS",
+      "description": "A quiz app on the fundamentals of JavaScript. There are 5 randomly selected multiple-choice questions and the user will have a time limit of 50 seconds. The remaining time will determine their score at the end. The user will be penalised by 10 seconds for every incorrect answer.",
+      "github": "",
+      "deployed": "https://js-coding-quiz.netlify.app",
+      "bgcolor": "#f85781",
+      "id": "2"
+    }
+  
+  
+    
+  ]
